@@ -2,7 +2,7 @@ import com.example.Die;
 
 public class DiceGame {
 
-	public static void main(String[] args) {
+	public static {
 		
 		int rollTotal=0;
 		int finalTotal=0;
