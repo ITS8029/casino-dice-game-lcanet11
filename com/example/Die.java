@@ -1,6 +1,6 @@
 import com.example.Die;
 
-public class DiceGame {
+public class Die {
 
 	public static {
 		
